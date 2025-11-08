@@ -1,0 +1,19 @@
+# Ignore virtual environment
+myvenv/
+
+# Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment and IDE folders
+.env
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
